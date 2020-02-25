@@ -14,7 +14,7 @@ The design and subsequent drawing has been done in Kicad 5.1.5.
 
 
 ## Download
-Gerber and BOM production files for the latest _field tested_ version of the PCB can be found in the 'Releases' page, or by following [this link](https://github.com/umcu7tcoillab/Driverboard/releases/latest). 
+Gerber and BOM production files for the latest _field tested_ version of the PCB can be found in the 'Releases' page, or by following [this link](https://github.com/umcu7tcoillab/Interfacebox-module-board/releases/latest). 
 You can also make your own production files by downloading the Kicad project and generating them, but these are not guaranteed to have been field tested.
 
 
