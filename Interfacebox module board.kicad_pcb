@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 106)
+    (drawings 107)
     (tracks 913)
     (zones 0)
     (modules 88)
@@ -3951,6 +3951,18 @@
       (net 1 GND))
   )
 
+  (dimension 319.650002 (width 0.15) (layer Cmts.User)
+    (gr_text "319.650 mm" (at 204.425 59.48) (layer Cmts.User)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (feature1 (pts (xy 364.250001 77.270001) (xy 364.250001 60.193579)))
+    (feature2 (pts (xy 44.599999 77.270001) (xy 44.599999 60.193579)))
+    (crossbar (pts (xy 44.599999 60.78) (xy 364.250001 60.78)))
+    (arrow1a (pts (xy 364.250001 60.78) (xy 363.123497 61.366421)))
+    (arrow1b (pts (xy 364.250001 60.78) (xy 363.123497 60.193579)))
+    (arrow2a (pts (xy 44.599999 60.78) (xy 45.726503 61.366421)))
+    (arrow2b (pts (xy 44.599999 60.78) (xy 45.726503 60.193579)))
+  )
   (gr_arc (start 306.270001 77.270001) (end 306.270001 76) (angle -90) (layer Edge.Cuts) (width 0.05) (tstamp 5E554539))
   (gr_arc (start 285.329999 77.270001) (end 286.6 77.270001) (angle -90) (layer Edge.Cuts) (width 0.05) (tstamp 5E554537))
   (gr_line (start 306.270001 76) (end 362.98 76) (layer Edge.Cuts) (width 0.05) (tstamp 5E553A6B))
