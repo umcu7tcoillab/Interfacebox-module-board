@@ -37,12 +37,12 @@ F 3 "" H 9350 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L _Custom:UMC_logo #G1
+L _Custom:UMC_logo G1
 U 1 1 5E574B27
 P 6400 7200
-F 0 "#G1" H 6400 6765 60  0001 C CNN
+F 0 "G1" H 6400 6765 60  0001 C CNN
 F 1 "UMC_logo" H 6400 7635 60  0001 C CNN
-F 2 "" H 6400 7200 50  0001 C CNN
+F 2 "_Custom:UMC_logo_small" H 6400 7200 50  0001 C CNN
 F 3 "" H 6400 7200 50  0001 C CNN
 	1    6400 7200
 	1    0    0    -1  
