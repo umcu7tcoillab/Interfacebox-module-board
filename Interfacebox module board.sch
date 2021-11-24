@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "Interfacebox module board"
 Date "2021-11-24"
-Rev "v0.3"
+Rev "v1.0"
 Comp "UMC Utrecht"
 Comment1 ""
 Comment2 ""
