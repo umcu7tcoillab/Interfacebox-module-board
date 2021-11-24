@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Interfacebox module board"
-Date "2020-03-18"
-Rev "v0.2"
+Date "2021-11-24"
+Rev "v0.3"
 Comp "UMC Utrecht"
 Comment1 ""
 Comment2 ""
@@ -789,7 +789,7 @@ L Connector_Generic:Conn_02x07_Odd_Even J4
 U 1 1 5EAD10B1
 P 3400 1750
 F 0 "J4" H 3450 2300 50  0000 C CNN
-F 1 "Driverboard_TR-switch" H 3450 2200 50  0000 C CNN
+F 1 "Driverboard" H 3450 2200 50  0000 C CNN
 F 2 "_Custom:Driverboard" H 3400 1750 50  0001 C CNN
 F 3 "~" H 3400 1750 50  0001 C CNN
 	1    3400 1750
